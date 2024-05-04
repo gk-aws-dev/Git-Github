@@ -13,10 +13,10 @@
 - ```git commit -m "your message here"``` with this command we can make commit for the our project.
 - ```git status``` this command will give us the status for the project as where our project is.
 
-## Push to Github
+## Push to Github:
 ``` git push origin master``` with this command we can push our commited project into github.
 
-## Clone Github repo
+## Clone Github repo:
 - We can clone the github repo by using the below command and we can start working on those projects. and once work done we can push those changes.
 ```git clone https://github.com/username/repository-name.git```
 
